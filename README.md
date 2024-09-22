@@ -1,13 +1,13 @@
 # ClientsDashboardApp
 This is a simple Desktop App that stores the Clients properties for a Doctor .<br/>
-Languages : Python tkinter <br/>
+Languages : Python tkinter + Treeview <br/>
 Database : sqlite3 <br/>
 
 App Interface
 ![Capture d'écran 2024-09-15 170029](https://github.com/user-attachments/assets/e82c3bdd-a221-4560-9b59-074532b77195)
 
-Restriction on input :
-The restriction on input is not solid (the App accepts duplicates)
+Restriction on input :<br/>
+The restriction on input is not solid (the App accepts duplicates).<br/>
 The record is added to the database only if it contains a first and lastname .
 ![Capture d'écran 2024-09-15 172036](https://github.com/user-attachments/assets/6eb17cab-1fdc-4413-8a57-3e9bde3b6a9b)
 
@@ -18,5 +18,6 @@ Adding a client :
 Removing a client :
 ![Capture d'écran 2024-09-15 170844](https://github.com/user-attachments/assets/f5506c2f-7391-43b9-9941-e2183d88ad9b)
 
-Searching a client :
+Searching a client :<br/>
+The search is done with date and name .
 ![Capture d'écran 2024-09-15 170452](https://github.com/user-attachments/assets/c4722749-6091-466c-a4c6-d406812dc755)
