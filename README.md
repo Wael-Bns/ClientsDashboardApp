@@ -1,7 +1,7 @@
 # ClientsDashboardApp
-This is a simple Desktop App that stores the Clients properties for a Doctor .
-Languages : Python tkinter 
-Database : sqlite3
+This is a simple Desktop App that stores the Clients properties for a Doctor .<br/>
+Languages : Python tkinter <br/>
+Database : sqlite3 <br/>
 
 App Interface
 ![Capture d'écran 2024-09-15 170029](https://github.com/user-attachments/assets/e82c3bdd-a221-4560-9b59-074532b77195)
