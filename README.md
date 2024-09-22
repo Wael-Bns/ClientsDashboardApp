@@ -8,7 +8,7 @@ App Interface
 
 Restriction on input :
 The restriction on input is not solid (the App accepts duplicates)
-The record is added to the database only is it contains a first and lastname .
+The record is added to the database only if it contains a first and lastname .
 ![Capture d'écran 2024-09-15 172036](https://github.com/user-attachments/assets/6eb17cab-1fdc-4413-8a57-3e9bde3b6a9b)
 
 Adding a client :
